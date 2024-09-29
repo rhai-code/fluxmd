@@ -1,0 +1,85 @@
+version: 3
+domain: time_travel
+created_by: 
+seed_examples:
+  - context: |
+      
+    questions_and_answers:
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+  - context: |
+      
+    questions_and_answers:
+      - question: |
+          
+        answer: |
+          
+      - question: |
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+  - context: |
+      
+    questions_and_answers:
+      - question: |
+
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+  - context: |
+      
+    questions_and_answers:
+      - question: |
+
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+  - context: |
+      
+    questions_and_answers:
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+document_outline: |
+  Details and repair costs on a DeLorean DMC-12 car.
+document:
+  repo: https://github.com/gshipley/backToTheFuture.git
+  commit: 8bd9220c616afe24b9673d94ec1adce85320809c
+  patterns:
+    - data.md
