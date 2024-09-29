@@ -79,7 +79,7 @@ seed_examples:
 document_outline: |
   Details and repair costs on a DeLorean DMC-12 car.
 document:
-  repo: https://github.com/gshipley/backToTheFuture.git
-  commit: 8bd9220c616afe24b9673d94ec1adce85320809c
+  repo: https://github.com/gshipley/fluxmd.git
+  commit: 3915cc7cc38c7eda46feaa01d44872e11e1334a8
   patterns:
-    - data.md
+    - flux.md
