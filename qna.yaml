@@ -25,20 +25,6 @@ seed_examples:
         answer: |
           
       - question: |
-        answer: |
-          
-      - question: |
-          
-        answer: |
-          
-  - context: |
-      
-    questions_and_answers:
-      - question: |
-
-        answer: |
-          
-      - question: |
           
         answer: |
           
@@ -50,7 +36,22 @@ seed_examples:
       
     questions_and_answers:
       - question: |
-
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+  - context: |
+      
+    questions_and_answers:
+      - question: |
+          
         answer: |
           
       - question: |
